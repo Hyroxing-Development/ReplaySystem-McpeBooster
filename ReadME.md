@@ -62,7 +62,7 @@ get the latest .phar from the poggit page: https://poggit.pmmp.io/p/ReplaySystem
 | /replay save [name] | save your current recording | replay.command |
 | /replay playsave [name] [speed:1] | play a saved recording | replay.command |
 | /replay deletesave [name] | delete a saved recording | replay.command |
-| /replay play [speed:1] | list all saved recording | replay.command |
+| /replay listsave| list all saved recording | replay.command |
 
 
 
